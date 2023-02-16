@@ -1,0 +1,17 @@
+C:\Prueba3 Josthim\Prueba3\PjPrueba3\bin\Debug\net6.0-windows\PjPrueba3.exe
+C:\Prueba3 Josthim\Prueba3\PjPrueba3\bin\Debug\net6.0-windows\PjPrueba3.deps.json
+C:\Prueba3 Josthim\Prueba3\PjPrueba3\bin\Debug\net6.0-windows\PjPrueba3.runtimeconfig.json
+C:\Prueba3 Josthim\Prueba3\PjPrueba3\bin\Debug\net6.0-windows\PjPrueba3.dll
+C:\Prueba3 Josthim\Prueba3\PjPrueba3\bin\Debug\net6.0-windows\PjPrueba3.pdb
+C:\Prueba3 Josthim\Prueba3\PjPrueba3\obj\Debug\net6.0-windows\PjPrueba3.csproj.AssemblyReference.cache
+C:\Prueba3 Josthim\Prueba3\PjPrueba3\obj\Debug\net6.0-windows\PjPrueba3.Form1.resources
+C:\Prueba3 Josthim\Prueba3\PjPrueba3\obj\Debug\net6.0-windows\PjPrueba3.csproj.GenerateResource.cache
+C:\Prueba3 Josthim\Prueba3\PjPrueba3\obj\Debug\net6.0-windows\PjPrueba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prueba3 Josthim\Prueba3\PjPrueba3\obj\Debug\net6.0-windows\PjPrueba3.AssemblyInfoInputs.cache
+C:\Prueba3 Josthim\Prueba3\PjPrueba3\obj\Debug\net6.0-windows\PjPrueba3.AssemblyInfo.cs
+C:\Prueba3 Josthim\Prueba3\PjPrueba3\obj\Debug\net6.0-windows\PjPrueba3.csproj.CoreCompileInputs.cache
+C:\Prueba3 Josthim\Prueba3\PjPrueba3\obj\Debug\net6.0-windows\PjPrueba3.dll
+C:\Prueba3 Josthim\Prueba3\PjPrueba3\obj\Debug\net6.0-windows\refint\PjPrueba3.dll
+C:\Prueba3 Josthim\Prueba3\PjPrueba3\obj\Debug\net6.0-windows\PjPrueba3.pdb
+C:\Prueba3 Josthim\Prueba3\PjPrueba3\obj\Debug\net6.0-windows\PjPrueba3.genruntimeconfig.cache
+C:\Prueba3 Josthim\Prueba3\PjPrueba3\obj\Debug\net6.0-windows\ref\PjPrueba3.dll
